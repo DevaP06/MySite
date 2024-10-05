@@ -6,7 +6,7 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently pursuing Btech at IIIT SRI CITY , eager to explore new ideas.
+Currently pursuing B.tech in CSE at IIIT SRI CITY , Eager to explore new ideas.
 
 </p>
 
